@@ -95,11 +95,7 @@ This work uses standards for engineering context only and does not warrant any s
   author  = {Donthula, Raja Kumara Swamy},
   title   = {Engineering-Constrained Agentic {AI} and Multi-Agent Decision Support for Mission-Critical Data Centers: A Reproducible Simulation Study},
   journal = {IEEE Access},
-  year    = {2026},
-  volume  = {XX},
-  pages   = {XX--XX},
-  doi     = {XX.XXXX/ACCESS.2026.XXXXXXX}
-}
+
 ```
 
 ## Contact
